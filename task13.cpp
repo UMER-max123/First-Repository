@@ -5,6 +5,7 @@ main()
     
     int A;
     int B;
+    int C;
     cout<<"Enter first number:";
     cin>>A;
     cout<<"Enter second number:";
