@@ -2,6 +2,7 @@
 using namespace std;
 main()
 {
+    
     int A;
     int B;
     cout<<"Enter first number:";
